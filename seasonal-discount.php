@@ -1,13 +1,7 @@
 <?php
 /*
 Plugin Name: Seasonal Discount
-Description: Simplifies seasonal discounting promotions on your WooCommerce store. Set discounts for the last week of next month effortlessly. Save time by automating discount application for hundreds of products.
-Version: 1.0
-Author: Shukla Deepak
-Author URI: https://www.linkedin.com/in/imshukladeepak/
-License: GPL-2.0-or-later
-License URI: https://www.gnu.org/licenses/gpl-2.0.html
-Text Domain: woocommerce-seasonal-discount
+Description: Simplifies seasonal discounting promotions on your WooCommerce store. Set discounts for the last week of next month effortlessly. Save time by automating discount applications for hundreds of products.
 */
 
 // Add Seasonal Discount submenu under WooCommerce menu.
